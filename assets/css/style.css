@@ -1,15 +1,16 @@
 .hide {
-    display: none;
+  display: none;
 }
 .left {
-    float: left;
+  float: left;
 }
 .right {
-    float: right;
+  float: right;
 }
 .clear {
-    clear: both;
+  clear: both;
 }
-#reset-container, h1 {
-    text-align: center;
+#reset-container,
+h1 {
+  text-align: center;
 }
